@@ -16,7 +16,10 @@ public class StartPoint {
 	public static void restClient() {
 		String mName = "restClient";
         System.out.println(mName+" Starts");
-	System.out.println(mName+" updated on local");	
+
+		System.println("updated on local and remote");
+		
+
 		
 	}
 	
