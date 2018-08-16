@@ -16,6 +16,7 @@ public class StartPoint {
 	public static void restClient() {
 		String mName = "restClient";
         System.out.println(mName+" Starts");
+		System.println("updatedon remote");
 		
 		
 	}
